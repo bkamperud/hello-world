@@ -10,9 +10,9 @@
 #    docs.serverless.com
 #
 # Happy Coding!
-service: my-first-service
+service: bente-test-service
 # app and org for use with dashboard.serverless.com
-app: my-first-app
+app: bente-test
 org: bentekamperud
 
 # You can pin your service to only deploy with a specific Serverless version
